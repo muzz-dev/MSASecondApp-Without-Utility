@@ -1,5 +1,6 @@
 # MSASecondApp
 Payara Micro Command:
+
 java -jar payara-micro-5.2022.2.jar --deploy MSASecondApp/artifact/MSASecondApp.war --port 8085 --addlibs mysql-connector-java-5.1.47.jar --domainconfig domain.xml
 
 # Project information
